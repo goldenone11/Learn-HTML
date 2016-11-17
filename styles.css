@@ -17,3 +17,8 @@ img {
 #first-ingredient {
   color: blue;
 }
+
+.section-heading {
+  background-color: #99ff99;
+  font-style: bold;
+}
