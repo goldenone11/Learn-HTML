@@ -6,3 +6,10 @@ body {
 ul {
    border: 1px brown solid;
 }
+
+img {
+  height: 200px;
+  width: 300px;
+  border: 2px brown dashed;
+  padding: 5px 10px 5px 10px;
+}
